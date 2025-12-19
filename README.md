@@ -1,3 +1,3 @@
 # IP
-## IP code: main1.ipynb & main2.ipynb
+## IP code: main(1).ipynb & main2.ipynb
 ## IP data: file data
